@@ -1,5 +1,15 @@
 {
   "programs": [
+     {
+      "name": "RedBull",
+      "url": "https://www.intigriti.com/researcher/programs/redbull/redbull/detail",
+      "bounty": false,
+      "domains": [
+        "redbull.com",
+        "redbullmediahouse.com",
+        "redbullmusicacademy.com"
+      ]
+    },
     {
       "name": "Rockset",
       "url": "https://hackerone.com/rockset",
